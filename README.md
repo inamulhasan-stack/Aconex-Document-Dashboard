@@ -36,7 +36,7 @@ One-Click Refresh: The entire reporting engine updates instantly when a new Acon
 
 Tech Stack
 
-Advanced Excel: Power Query (M-Language), Pivot Tables, Dashboard Layout Design.
+Advanced Excel: Power Query, Pivot Tables, Dashboard Layout Design.
 
 SQL: Used for initial data validation and mock-database querying.
 
@@ -57,7 +57,7 @@ Reporting Analyst | MIS Specialist | Google Certified Data Professional
 
 I specialize in automating reporting workflows and maintaining 100% data integrity in complex environments.
 
-🔗 LinkedIn Profile
+🔗 linkedin.com/in/inam-hasan
 📧 inam.hasan@outlook.com
 
-Disclaimer: All data used in this project is simulated or sanitized to protect confidentiality and comply with PCI-DSS and project security standards.
+
